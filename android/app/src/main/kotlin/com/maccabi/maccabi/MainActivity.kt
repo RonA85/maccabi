@@ -1,0 +1,6 @@
+package com.maccabi.maccabi
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
